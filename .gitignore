@@ -1,0 +1,7 @@
+.DS_Store
+start.sh
+add.sh
+clear.sh
+node_modules
+objectstorage
+*.png
